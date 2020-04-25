@@ -6,7 +6,7 @@ https://repl.it/@aahmad4/Prison-Escape
 
 ## Gameplay
 
-![](https://im6.ezgif.com/tmp/ezgif-6-5a66664a8b37.gif)
+![](assets/gameplay.gif)
 
 ## Rules
 
