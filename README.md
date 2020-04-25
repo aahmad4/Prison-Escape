@@ -4,7 +4,7 @@ An aerial prison escape game made with Python and Pygame. I created this game ou
 
 https://repl.it/@aahmad4/Prison-Escape
 
-## Gameplay
+## Gameplay Snippet
 
 ![](assets/gameplay.gif)
 
