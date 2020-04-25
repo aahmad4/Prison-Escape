@@ -1,6 +1,8 @@
 # Prison Escape 
 
-An aerial prison escape game made with Python and Pygame. I created this game out of a personal interest for Pygame and to get better at object orientated programming at the same time. This was definitely a fun game to make as well as a fun game to play.
+An aerial prison escape game made with Python and Pygame. I created this game out of a personal interest for Pygame and to get better at object orientated programming at the same time. This was definitely a fun game to make as well as a fun game to play. I have this game shared on repl.it [here](https://repl.it/@aahmad4/Prison-Escape) or below, but I recommend running the game locally for a smoother experience.
+
+https://repl.it/@aahmad4/Prison-Escape
 
 ## Gameplay
 
