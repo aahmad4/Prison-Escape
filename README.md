@@ -1,8 +1,13 @@
-# Prison Escape 
+<h1 align="center">Prison Escape</h1> 
 
-An aerial prison escape game made with Python and Pygame. I created this game out of a personal interest for Pygame and to get better at object orientated programming at the same time. This was definitely a fun game to make as well as a fun game to play. I have this game shared on repl.it [here](https://repl.it/@aahmad4/Prison-Escape) or below, but I recommend running the game locally for a smoother experience.
+<p align="center">
+An aerial prison escape game made with Python and Pygame. I created this game out of a personal interest for Pygame and to get better at object orientated programming at the same time. This was definitely a fun game to make as well as a fun game to play.
+</p>
 
-https://repl.it/@aahmad4/Prison-Escape
+<p align="center">
+A link to an online demo version can be found here: <a href="https://repl.it/@aahmad4/Prison-Escape
+" target="_blank">repl.it/@aahmad4/Prison-Escape</a>
+</p>
 
 ## Gameplay Snippet
 
@@ -16,19 +21,24 @@ The rules of the game are very simple:
 * Likewise, everytime a prisoner gets past you, you loose a life. If you hit 0 lives, the game ends.
 * Move the character with your arrow keys and shoot your lasers with the space bar. 
 
-## Clone
+## Setup
+
+#### Clone
 ```
 git clone https://github.com/aahmad4/Prison-Escape
 ```
 
-## Installation
+#### Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required packages.
 ```
 pip install -r requirements.txt
 ```
 
-## Usage
+#### Usage
+```
+cd Prison-Escape
+```
 
 ```
 python main.py
